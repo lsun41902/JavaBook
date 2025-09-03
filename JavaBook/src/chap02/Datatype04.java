@@ -7,8 +7,8 @@ public class Datatype04 {
 		String str ="Java";
 		String str2 ="Program";
 		
-		System.out.print(str);
-		System.out.print(str2);
+		System.out.println(str);
+		System.out.println(str2);
 	}
 
 }
