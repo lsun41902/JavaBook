@@ -1,6 +1,6 @@
 package chap02;
 
-public class example01 {
+public class Example01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
