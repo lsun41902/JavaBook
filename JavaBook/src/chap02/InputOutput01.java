@@ -1,7 +1,5 @@
 package chap02;
 
-import javax.swing.text.html.HTMLEditorKit.Parser;
-
 public class InputOutput01 {
 
 	public static void main(String[] args) {
